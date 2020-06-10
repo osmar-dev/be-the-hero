@@ -2,9 +2,6 @@
     <img alt="Be The Hero" title="#delicinha" src=".github/logo.svg" width="250px" />
 </h1>
 
-<h4 align="center">
-  🚀 Semana OmniStack 11.0
-</h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osmjunioor/be-the-hero">
 
